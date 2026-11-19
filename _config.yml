@@ -1,0 +1,9 @@
+title: Smarfle Lead API examples
+description: Copy-and-run examples for sending leads from websites, ads and form builders into Smarfle, the software for home and field service businesses.
+theme: jekyll-theme-cayman
+url: https://smarfle.github.io
+baseurl: /smarfle-lead-api
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-relative-links

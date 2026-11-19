@@ -1,3 +1,9 @@
+---
+title: "Smarfle Lead API examples"
+description: "Send leads from your website, ads or forms into Smarfle with curl, Node, Python, PHP, Zapier or a form builder."
+permalink: /
+---
+
 # Smarfle Lead API examples
 
 Working examples for sending leads from your website, ads or forms into [Smarfle](https://www.smarfle.com), the software for home and field service businesses. Each lead becomes a client with the status Lead, with the request shown at the top of the client page and an alert to the office.
