@@ -10,6 +10,8 @@ Working examples for sending leads from your website, ads or forms into [Smarfle
 
 The full reference lives at [smarfle.com/docs/api](https://www.smarfle.com/docs/api). This repo adds copy-and-run examples.
 
+**New: the REST API v1.** Read and write customers, jobs, invoices and services and subscribe to webhooks: see [REST API v1 examples](rest-api.md).
+
 ## Get your API key
 
 In Smarfle, open **Company Settings**, then the **Integrations** tab, find **API key** and press **Generate API Key**. Keys start with `rk_`. Keep the key private and generate a new one if it ever leaks.
